@@ -54,3 +54,6 @@ During this project, I enhanced my expertise in Power BI with the following skil
 ● Designing user-friendly dashboards while ensuring data accuracy.
 ● Utilizing Power BI Services for seamless navigation and data visualization.
 
+
+
+
